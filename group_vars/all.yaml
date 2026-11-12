@@ -1,3 +1,4 @@
+# here we have put in gmail credentails and it will connect to gmail via smtp port
 smtp_server: "smtp.gmail.com"
 smtp_port: 587
 email_user: "--"
